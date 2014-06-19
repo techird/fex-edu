@@ -16,7 +16,7 @@ FEX 学院
 
 ## 前端工具
 
-- [-] [FIS](http://fis.baidu.com/)
+- [x] [FIS](http://fis.baidu.com/)
 
 ## 网络相关
 
